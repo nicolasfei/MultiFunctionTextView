@@ -1,0 +1,3 @@
+rootProject.name='MultiFunctionTextView'
+include ':app'
+include ':app:multifunctionlibrary'
